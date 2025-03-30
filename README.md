@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Malarselvi
 
-### Developer | AWS Certified Cloud Practitioner
+### Developer
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange)](https://www.credly.com/badges/ac1fd57c-700d-4e47-92ef-69f3650105a5)
 <img align="right" width="370" height="290" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
 - Motivated developer seeking a challenging position to leverage my skills in web development and problem solving.                        <br/>                
 - 🌱 I’m currently learning Cloud and DevOps.
